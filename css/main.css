@@ -1,0 +1,138 @@
+/*Header*/
+.backgray{
+	background-color: #191919;
+	width: 970px;
+	height: 100px;
+	margin-left: -px;
+	color: white;
+}
+
+.the{
+	font-size: 40px;
+	margin-top: 20px;
+	color: white;
+	margin-left: 10px;
+}
+
+.gentleman{
+	font-size: 40px;
+	margin-left: 80px;
+	margin-top: -44px;
+	color: white;
+}
+
+.homec{
+	color: #FB057F;
+	margin-top: 40px;
+	margin-left: -10px;
+}
+
+.controlmenu{
+	margin-left: -50px;
+}
+
+
+.menu{
+	float: left;
+	list-style: none;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+/*Final Header*/
+/*Section*/
+/*Bloque 1*/
+
+.fullbackgray{ /*Fondo gris para toda la página*/
+	background-color: #D2D2D2;
+}
+
+.backwhite1{
+	background-color: white;
+	width: 700px;
+	height: 400px;
+	margin-left: 120px;
+}
+
+.cityimg{
+	width: 400px;
+	height: 300px;
+}
+.espacio{
+	margin-top: 40px;
+}
+
+.tittle1{
+	margin-left: 10px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+.ptext1{
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.button1{
+	background-color: gray;
+	border-radius: 100px;
+	width: 100px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.textbutton{
+	color:white;
+	font-weight: bold;
+	margin-top: -25px;
+	margin-left: 18px;
+}
+
+
+/*Final Section*/
+/*Section*/
+/*Bloque2*/
+
+.backwhite2{
+	background-color: white;
+	width: 700px;
+	height: 400px;
+	margin-left: 120px;
+}
+
+/*Columnas*/
+
+.tamaño{
+	width: 300px;
+	margin-left: 25px;
+}
+
+.alinetext{
+	margin-left: 25px;
+}
+
+/*Boton columnas*/
+
+.button2{
+	background-color: gray;
+	border-radius: 100px;
+	width: 150px;
+	height: 50px;
+	margin-left: 355px;
+	margin-top: 40px;
+}
+
+.textbuttonc{
+	color:white;
+	font-weight: bold;
+	margin-top: -35px;
+	margin-left: 390px;
+}
+
+/*Twitter*/
+/*Falta imagen de twitter*/
+
+.textp2{
+	margin-left: 230px;
+}
